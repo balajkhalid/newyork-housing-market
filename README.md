@@ -1,7 +1,7 @@
 # New York Housing Market
 
 ## Abstract
-<p> </p>
+<p>In this project, I developed a multi-layer perceptron from the ground up to tackle a classification challenge. Specifically, I utilized a modified version of a dataset originally found on Kaggle, which is derived from real-world data pertaining to the New York housing market. The primary objective of this project is to accurately predict the number of bedrooms in a given property based on various input features. </p>
 
 ## Important Links
 - [Kaggle: New York Housing Market](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
