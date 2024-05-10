@@ -5,8 +5,8 @@
 
 ## Important Links
 - [Kaggle: New York Housing Market](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
-- [Project Files]()
-- [Project Report]()
+- [Project Files](https://github.com/balajkhalid/newyork-housing-market/blob/main/new-york-housing-market.py)
+- [Project Report](https://github.com/balajkhalid/newyork-housing-market/blob/main/project-report.pdf)
 
 ## Getting Started
 
